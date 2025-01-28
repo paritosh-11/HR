@@ -35,6 +35,3 @@ Run the Streamlit app using the following command:
 Input employee data into the app and obtain churn prediction results in real-time.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
